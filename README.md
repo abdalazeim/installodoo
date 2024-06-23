@@ -51,15 +51,15 @@ sudo tail -f /var/log/odoo/odoo-server.log
 
 ```
 path codigo fuente odoo: /usr/lib/python3/dist-packages/odoo
+
 ## install nodejs & rtlcss
+
 sudo apt install nodejs
+
 sudo apt install npm
+
 sudo npm install -g rtlcss
 
 
-install nodejs & rtlcss
-sudo apt install nodejs
-sudo apt install npm
-sudo npm install -g rtlcss
 
 
